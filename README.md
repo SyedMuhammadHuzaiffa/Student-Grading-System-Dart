@@ -4,13 +4,19 @@ The aim of this project was to create a system that creates a Grading system for
 
 # Devs Who Worked On This
 <br>
-@Ibrahiim-Ahmed
-@muddar-miqdad
-@SyedMuhammadHuzaiffa (Lead)
+<ul>
 
+<li>@Ibrahiim-Ahmed</li>
+<li>@muddar-miqdad</li>
+<li>@SyedMuhammadHuzaiffa (Lead)</li>
+</ul>
 # Instructions For Running 
 <br>
-<- Upon first running the program You'll be asked to pick whether You're a Teacher or a Student.
-- After picking one you'll have to enter your assigned credentials.
-- After that you can either view (as a student) or grade (as a teacher) the marks.
+<ul>
+<li> Upon first running the program You'll be asked to pick whether You're a Teacher or a Student. </li>
+
+<li>After picking one you'll have to enter your assigned credentials.</li>
+<li> After that you can either view (as a student) or grade (as a teacher) the marks.</li>
+
+</ul>
 >
