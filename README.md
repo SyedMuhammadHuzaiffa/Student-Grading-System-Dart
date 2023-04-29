@@ -6,9 +6,9 @@ The aim of this project was to create a system that creates a Grading system for
 <br>
 <ul>
 
-<li>@Ibrahiim-Ahmed</li>
-<li>@muddar-miqdad</li>
-<li>@SyedMuhammadHuzaiffa (Lead)</li>
+<li><a href="https://github.com/Ibrahiim-Ahmed">Ibrahim Ahmed</a></li>
+<li><a href="https://github.com/SyedMuhammadHuzaiffa">S.M. Huzaifa (Lead)</a></li>
+<li><a href="https://github.com/muddar-miqdad">Muddar Miqdad</a></li>
 </ul>
 
 # Instructions For Running :
