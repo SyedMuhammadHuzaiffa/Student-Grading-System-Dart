@@ -1,6 +1,6 @@
 # Student Grading System
 <br>
-The aim of this project was to create a system that creates a Grading system for Students so that they can view their marks/scores after inputting their login credentials and for Teachers so that they can input those grades of students.
+The aim of this project was to create a system that serves as a Grading system for Students so that they can view their marks/scores after inputting their login credentials and for Teachers so that they can input those grades of students.
 
 # Devs Who Worked On This :
 <br>
